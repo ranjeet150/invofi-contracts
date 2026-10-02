@@ -535,3 +535,5 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md) for build, test, and PR guidelines.
 ## License
 
 MIT © 2026 InvoFi Contributors
+
+<!-- Updated documentation reference -->
